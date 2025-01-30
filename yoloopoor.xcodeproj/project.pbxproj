@@ -1,0 +1,574 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		7412DBC62D4B7F63004EAB27 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7412DBA72D4B7F61004EAB27 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7412DBAE2D4B7F61004EAB27;
+			remoteInfo = yoloopoor;
+		};
+		7412DBD02D4B7F63004EAB27 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7412DBA72D4B7F61004EAB27 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7412DBAE2D4B7F61004EAB27;
+			remoteInfo = yoloopoor;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		7412DBAF2D4B7F61004EAB27 /* yoloopoor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = yoloopoor.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7412DBC52D4B7F63004EAB27 /* yoloopoorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = yoloopoorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7412DBCF2D4B7F63004EAB27 /* yoloopoorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = yoloopoorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		7412DBD72D4B7F63004EAB27 /* Exceptions for "yoloopoor" folder in "yoloopoor" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 7412DBAE2D4B7F61004EAB27 /* yoloopoor */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		7412DBB12D4B7F61004EAB27 /* yoloopoor */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				7412DBD72D4B7F63004EAB27 /* Exceptions for "yoloopoor" folder in "yoloopoor" target */,
+			);
+			path = yoloopoor;
+			sourceTree = "<group>";
+		};
+		7412DBC82D4B7F63004EAB27 /* yoloopoorTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = yoloopoorTests;
+			sourceTree = "<group>";
+		};
+		7412DBD22D4B7F63004EAB27 /* yoloopoorUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = yoloopoorUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7412DBAC2D4B7F61004EAB27 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7412DBC22D4B7F63004EAB27 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7412DBCC2D4B7F63004EAB27 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7412DBA62D4B7F61004EAB27 = {
+			isa = PBXGroup;
+			children = (
+				7412DBB12D4B7F61004EAB27 /* yoloopoor */,
+				7412DBC82D4B7F63004EAB27 /* yoloopoorTests */,
+				7412DBD22D4B7F63004EAB27 /* yoloopoorUITests */,
+				7412DBB02D4B7F61004EAB27 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7412DBB02D4B7F61004EAB27 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7412DBAF2D4B7F61004EAB27 /* yoloopoor.app */,
+				7412DBC52D4B7F63004EAB27 /* yoloopoorTests.xctest */,
+				7412DBCF2D4B7F63004EAB27 /* yoloopoorUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7412DBAE2D4B7F61004EAB27 /* yoloopoor */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7412DBD82D4B7F63004EAB27 /* Build configuration list for PBXNativeTarget "yoloopoor" */;
+			buildPhases = (
+				7412DBAB2D4B7F61004EAB27 /* Sources */,
+				7412DBAC2D4B7F61004EAB27 /* Frameworks */,
+				7412DBAD2D4B7F61004EAB27 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				7412DBB12D4B7F61004EAB27 /* yoloopoor */,
+			);
+			name = yoloopoor;
+			packageProductDependencies = (
+			);
+			productName = yoloopoor;
+			productReference = 7412DBAF2D4B7F61004EAB27 /* yoloopoor.app */;
+			productType = "com.apple.product-type.application";
+		};
+		7412DBC42D4B7F63004EAB27 /* yoloopoorTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7412DBDD2D4B7F63004EAB27 /* Build configuration list for PBXNativeTarget "yoloopoorTests" */;
+			buildPhases = (
+				7412DBC12D4B7F63004EAB27 /* Sources */,
+				7412DBC22D4B7F63004EAB27 /* Frameworks */,
+				7412DBC32D4B7F63004EAB27 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7412DBC72D4B7F63004EAB27 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				7412DBC82D4B7F63004EAB27 /* yoloopoorTests */,
+			);
+			name = yoloopoorTests;
+			packageProductDependencies = (
+			);
+			productName = yoloopoorTests;
+			productReference = 7412DBC52D4B7F63004EAB27 /* yoloopoorTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		7412DBCE2D4B7F63004EAB27 /* yoloopoorUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7412DBE02D4B7F63004EAB27 /* Build configuration list for PBXNativeTarget "yoloopoorUITests" */;
+			buildPhases = (
+				7412DBCB2D4B7F63004EAB27 /* Sources */,
+				7412DBCC2D4B7F63004EAB27 /* Frameworks */,
+				7412DBCD2D4B7F63004EAB27 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7412DBD12D4B7F63004EAB27 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				7412DBD22D4B7F63004EAB27 /* yoloopoorUITests */,
+			);
+			name = yoloopoorUITests;
+			packageProductDependencies = (
+			);
+			productName = yoloopoorUITests;
+			productReference = 7412DBCF2D4B7F63004EAB27 /* yoloopoorUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7412DBA72D4B7F61004EAB27 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					7412DBAE2D4B7F61004EAB27 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					7412DBC42D4B7F63004EAB27 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 7412DBAE2D4B7F61004EAB27;
+					};
+					7412DBCE2D4B7F63004EAB27 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 7412DBAE2D4B7F61004EAB27;
+					};
+				};
+			};
+			buildConfigurationList = 7412DBAA2D4B7F61004EAB27 /* Build configuration list for PBXProject "yoloopoor" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7412DBA62D4B7F61004EAB27;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 7412DBB02D4B7F61004EAB27 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7412DBAE2D4B7F61004EAB27 /* yoloopoor */,
+				7412DBC42D4B7F63004EAB27 /* yoloopoorTests */,
+				7412DBCE2D4B7F63004EAB27 /* yoloopoorUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7412DBAD2D4B7F61004EAB27 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7412DBC32D4B7F63004EAB27 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7412DBCD2D4B7F63004EAB27 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7412DBAB2D4B7F61004EAB27 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7412DBC12D4B7F63004EAB27 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7412DBCB2D4B7F63004EAB27 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7412DBC72D4B7F63004EAB27 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7412DBAE2D4B7F61004EAB27 /* yoloopoor */;
+			targetProxy = 7412DBC62D4B7F63004EAB27 /* PBXContainerItemProxy */;
+		};
+		7412DBD12D4B7F63004EAB27 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7412DBAE2D4B7F61004EAB27 /* yoloopoor */;
+			targetProxy = 7412DBD02D4B7F63004EAB27 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		7412DBD92D4B7F63004EAB27 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V93F368RQJ;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = yoloopoor/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yoloo.yoloopoor;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		7412DBDA2D4B7F63004EAB27 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V93F368RQJ;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = yoloopoor/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yoloo.yoloopoor;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		7412DBDB2D4B7F63004EAB27 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		7412DBDC2D4B7F63004EAB27 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7412DBDE2D4B7F63004EAB27 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V93F368RQJ;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yoloo.yoloopoorTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/yoloopoor.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/yoloopoor";
+			};
+			name = Debug;
+		};
+		7412DBDF2D4B7F63004EAB27 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V93F368RQJ;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yoloo.yoloopoorTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/yoloopoor.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/yoloopoor";
+			};
+			name = Release;
+		};
+		7412DBE12D4B7F63004EAB27 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V93F368RQJ;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yoloo.yoloopoorUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = yoloopoor;
+			};
+			name = Debug;
+		};
+		7412DBE22D4B7F63004EAB27 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = V93F368RQJ;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yoloo.yoloopoorUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = yoloopoor;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7412DBAA2D4B7F61004EAB27 /* Build configuration list for PBXProject "yoloopoor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7412DBDB2D4B7F63004EAB27 /* Debug */,
+				7412DBDC2D4B7F63004EAB27 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7412DBD82D4B7F63004EAB27 /* Build configuration list for PBXNativeTarget "yoloopoor" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7412DBD92D4B7F63004EAB27 /* Debug */,
+				7412DBDA2D4B7F63004EAB27 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7412DBDD2D4B7F63004EAB27 /* Build configuration list for PBXNativeTarget "yoloopoorTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7412DBDE2D4B7F63004EAB27 /* Debug */,
+				7412DBDF2D4B7F63004EAB27 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7412DBE02D4B7F63004EAB27 /* Build configuration list for PBXNativeTarget "yoloopoorUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7412DBE12D4B7F63004EAB27 /* Debug */,
+				7412DBE22D4B7F63004EAB27 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7412DBA72D4B7F61004EAB27 /* Project object */;
+}
